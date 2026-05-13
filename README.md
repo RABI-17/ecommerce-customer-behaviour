@@ -3,7 +3,7 @@
 ## Live Dashboard
 [View interactive Tableau dashboard →](https://public.tableau.com/app/profile/rabinarayan.sahu/viz/EcommerceCustomerBehaviourDashboard/Dashboard1?publish=yes)
 
-![Dashboard Preview] (dashboard_preview.png)
+![Dashboard Preview] dashboard_preview.png
 
 ## Project Overview
 RFM (Recency, Frequency, Monetary) segmentation analysis of 
